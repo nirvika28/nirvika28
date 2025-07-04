@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Nirvika — a passionate Computer Science student from MIT Bengaluru, working on ML, AI, and full-stack projects!
+![image](https://github.com/user-attachments/assets/998d1994-8bb1-4cd9-a845-6eea2ece5b4c)
+
 
 <!--
 **nirvika28/nirvika28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
