@@ -1,7 +1,8 @@
 Hi there 👋  
 I'm Nirvika — a passionate Computer Science student from MIT Bengaluru, working on ML, AI, and full-stack projects!
 
-![image](https://github.com/user-attachments/assets/29a499cf-b918-4667-8303-325ae3915fc7)
+![image](https://github.com/user-attachments/assets/12fad1a4-8f4d-4401-810b-7467277e4dae)
+
 
 
 
